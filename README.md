@@ -95,6 +95,7 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
           <div style="font-size: 80px;">📝</div>
         </a>
         <p><strong>Next.js • TypeScript • Tailwind CSS • Turso • Clerk</strong> - Code snippets management system with secure authentication and elegant syntax highlighting.</p>
+        <p><a href="https://snipolt.xyz" target="_blank">➡️ Visit Project</a></p>
       </div>
     </td>
     <td width="50%">
@@ -104,6 +105,7 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
           <div style="font-size: 80px;">🚀</div>
         </a>
         <p><strong>Next.js • Better-Auth • Drizzle • TypeScript • Zod • Tailwind • Stripe</strong> - A simple starter kit to build fast SaaS applications with authentication and payments.</p>
+        <p><a href="https://mo-saas-kit.vercel.app" target="_blank">➡️ Visit Project</a></p>
       </div>
     </td>
   </tr>
@@ -115,6 +117,7 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
           <div style="font-size: 80px;">🌐</div>
         </a>
         <p><strong>Next.js • Three.js • Framer Motion • Tailwind</strong> - Personal portfolio with 3D elements, smooth animations, and responsive design.</p>
+        <p><a href="https://mo-rmich.com" target="_blank">➡️ Visit Project</a></p>
       </div>
     </td>
   </tr>
