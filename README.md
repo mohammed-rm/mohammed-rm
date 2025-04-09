@@ -2,10 +2,15 @@
 
 [![Website](https://img.shields.io/badge/Website-mo--rmich.com-blue?style=flat-square&logo=google-chrome)](https://mo-rmich.com)
 [![Email](https://img.shields.io/badge/Email-rmich.mohammed20%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rmich.mohammed20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-rmich)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MohammedRmich)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rmich-6bb168226/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/mohammed_rmi)
 
-## 💫 About Me
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <b style="font-size: 24px;">About Me</b>
+</h2>
+
+&nbsp;
 
 <div align="center">
   <i>"Crafting digital experiences where code meets creativity"</i>
@@ -16,18 +21,21 @@
 I'm a **Full Stack Engineer** with a passion for elegant solutions to complex problems. My journey in tech is driven by curiosity and a commitment to excellence.
 
 ✨ **What I Do:**
+
 - Architect and build scalable web applications with **Python** and **JavaScript/TypeScript**
 - Craft responsive, intuitive interfaces using **React** and **Next.js** ecosystems
 - Design robust backend systems with performance and security in mind
 - Transform ideas into production-ready applications with clean, maintainable code
 
 🔍 **Current Focus:**
+
 - Exploring advanced patterns in **React** and state management
 - Diving deeper into distributed systems architecture
 - Optimizing application performance at scale
 - Expanding knowledge in cloud infrastructure and DevOps practices
 
 🌱 **Core Principles:**
+
 - **Continuous Learning** — Technology evolves, and so do I
 - **User-Centric Design** — The end user experience guides my development decisions
 - **Code Quality** — Maintainable, tested, and efficient solutions are non-negotiable
@@ -35,9 +43,15 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
 
 > When I'm not coding, you'll find me exploring new technologies, contributing to open-source, or sharing knowledge with the developer community.
 
-## 🛠️ Tech Stack
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
+  <b style="font-size: 24px;">Tech Stack</b>
+</h2>
+
+&nbsp;
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -50,6 +64,7 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -65,6 +80,7 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Tools & Platforms
+
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -77,6 +93,7 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
 ![WildFly](https://img.shields.io/badge/WildFly-E44D26?style=for-the-badge&logo=wildfly&logoColor=white)
 
 ### Testing & Methodologies
+
 ![unittest](https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-007ACC?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -84,7 +101,12 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 💻 Featured Projects
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  <b style="font-size: 24px;">Featured Projects</b>
+</h2>
+
+&nbsp;
 
 <table>
   <tr>
@@ -123,7 +145,12 @@ I'm a **Full Stack Engineer** with a passion for elegant solutions to complex pr
   </tr>
 </table>
 
-## 📈 Skills Overview
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
+  <b style="font-size: 24px;">Skills Overview</b>
+</h2>
+
+&nbsp;
 
 ```text
 Frontend Development    ███████████████████░░   90%
@@ -138,25 +165,6 @@ Testing & QA            ███████████████░░░�
 Performance Optimization █████████████████░░░░   85%
 Security Implementation  ██████████████░░░░░░░   70%
 ```
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://mo-rmich.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-mo--rmich.com-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a>
-  <a href="mailto:rmich.mohammed20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-rmich.mohammed20%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/mohammed-rmich" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/MohammedRmich" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-
 
 ---
 
