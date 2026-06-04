@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-mo--rmich.com-blue?style=flat-square&logo=google-chrome)](https://mo-rmich.com)
 [![Email](https://img.shields.io/badge/Email-rmich.mohammed20%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rmich.mohammed20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rmich-6bb168226/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-r-242688355/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/mohammed_rmi)
 
 <h2 align="center">
